@@ -1,0 +1,103 @@
+body{
+	background-color:#355E7C;
+	font-family:Helvetica,Futura,Arial,Verdana,sans-serif;
+	color:#3F76AC;
+	font-weight: bold;}
+table{
+
+width:700px;
+margin:auto;
+border-spacing:1px;
+background-color:white;
+border-radius: 5px;
+
+}
+td{
+padding:10px;
+border:1px solid;		
+}
+tr{
+padding:10px;
+border:1px solid;	
+}
+.border{
+	border:0px;
+}
+
+.iz{text-align:right ;color:white}
+
+.boton{border-radius: 5px;
+padding: 5px;
+background: #528DBA;
+color: white;
+font-size: 15px;
+font-weight: bold;
+}
+
+
+.botselec{
+display: inline-block;
+width: 150px;
+padding:25px;
+
+}
+
+.eli{border-radius: 5px;
+padding: 5px;
+background: red;
+color: white;
+font-size: 15px;
+font-weight: bold;
+}
+
+
+#c{text-align:center; font-size: 120%}
+
+a{
+	text-decoration: none;
+	color:#3F76AC;
+}
+
+div#principal{
+	margin:auto;
+	width: 1200px;
+}
+div#contenido{
+	
+	padding-bottom:25px;
+	padding-top:25px;
+	float: right;
+	width: 996px;
+	border:1px solid;
+	border-color:white;
+}
+p{
+	margin:0;
+}
+div#menu{
+	
+	float: left;
+	width: 200px;
+	background-color:white;
+	border:1px solid;
+	border-color:white;
+}
+
+#cuenta{
+	padding:25px;
+	color: white;border:1px solid}
+
+#selec{
+	background: #355E7C;	
+}
+.titulo{
+	color:white;
+	background-color:#528DBA;
+}
+#alerta{
+	color:red;
+	border-color:#3F76AC;;
+}
+#sel{
+	color:white;
+}
